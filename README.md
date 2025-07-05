@@ -2,7 +2,7 @@
 
 A beautiful, modern Python application for generating secure passwords with customizable criteria. Built with tkinter for a native desktop experience.
 
-![Password Generator Screenshot](screenshot.png)
+![C:\Users\Admin\Documents\password generator project\password generator screenshot-1.PNG](<password generator screenshot-1.PNG>)
 
 ## ✨ Features
 
